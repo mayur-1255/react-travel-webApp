@@ -35,7 +35,7 @@ const destinations = [
         id: 4,
         name: "Varanasi",
         state: "Uttar Pradesh",
-        image: "https://images.unsplash.com/photo-1561361513-35bdcdad5eda?q=80&w=1200&auto=format",
+        image: "https://images.unsplash.com/photo-1768844370016-044dd73c1a7a?q=80&w=1171&auto=format",
         desc: "The spiritual capital of India, one of the world's oldest living cities.",
         rating: 4.8,
     },
